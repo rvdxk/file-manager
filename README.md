@@ -10,8 +10,8 @@ This project is designed to give users a convenient way to inspect and organize 
 git clone https://github.com/your-username/file-manager.git<br>
 -Open the project in your preferred Java IDE (e.g., IntelliJ IDEA).<br>
 -Enter the path of the directory you want to explore in Main class.<br>
---Run the Main.class.<br>
-The console will display a sorted list of files in the specified directory, showing file names, sizes, and sorted from largest to smallest.<br>
+-Run the Main.class.<br>
+-The console will display a sorted list of files in the specified directory, showing file names, sizes, and sorted from largest to smallest.<br>
 
 ## Features
 -Directory exploration: Choose a directory and view its file details.<br>
